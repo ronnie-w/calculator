@@ -1,0 +1,9 @@
+.area {
+    width: 350px;
+    height: 500px;
+    border: 1px solid white;
+}
+
+.result {
+    width: 330px;
+}
